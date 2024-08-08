@@ -26,10 +26,17 @@ The main goal of this project is to develop an Android-based health application 
 
 ## Snapshots
 - **First Page**: Initial landing page.
+  ![e](https://github.com/user-attachments/assets/607c5e29-df47-4bd8-a4fd-511b61efe76e)
 - **Personal Info Page**: Interface for collecting and updating user information.
+  ![g](https://github.com/user-attachments/assets/3aa8f9fb-a5ce-4e72-9b63-3121c3aa5bef)
 - **Health Topic Page**: List and detail views of health-related topics.
+  ![d](https://github.com/user-attachments/assets/24f724cd-2649-4879-a72f-3b2fc106cdd1)
 - **Daily Checkup Page**: Interface for daily health data entry.
+  ![h](https://github.com/user-attachments/assets/b7e8a82a-6e59-4e54-b324-5949691c9d4e)
 - **Result Checkup Page**: Trends and suggestions based on health data.
+  ![F](https://github.com/user-attachments/assets/cf0b58d2-a21c-4c55-9242-4b5cd2d72408)
+- **Other Page**:
+  ![c](https://github.com/user-attachments/assets/f7b0ce21-728b-4912-b8d1-8a0b40aa59ad)
 
 ## Technical Requirements
 - Android-based application.
